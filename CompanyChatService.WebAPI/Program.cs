@@ -1,5 +1,9 @@
 using CompanyChatService.Infrastructure;
 using CompanyChatService.WebAPI.Hubs;
+using CompanyChatService.WebAPI.Endpoints;
+using CompanyChatService.WebAPI.Services;
+using CompanyChatService.Application.Common.Interfaces;
+using Mediator;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +14,12 @@ builder.Services.AddInfrastructureServices(builder.Configuration);
 
 // SignalR servisini ekle
 builder.Services.AddSignalR();
+
+// WebAPI katmanında ISignalRService'i kaydet
+builder.Services.AddScoped<ISignalRService, SignalRService>();
+
+// Mediator servisini ekle
+builder.Services.AddMediator();
 
 // API Explorer ve Swagger için servisleri ekle
 builder.Services.AddEndpointsApiExplorer();
@@ -28,5 +38,8 @@ app.UseHttpsRedirection();
 
 // Hub endpoint'ini haritala
 app.MapHub<ChatHub>("/chathub");
+
+// Tüm endpoint'leri haritala
+app.MapEndpoints();
 
 app.Run();
