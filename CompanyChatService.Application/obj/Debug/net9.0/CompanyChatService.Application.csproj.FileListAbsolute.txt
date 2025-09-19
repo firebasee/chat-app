@@ -13,3 +13,4 @@ c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Applicat
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Application\obj\Debug\net9.0\refint\CompanyChatService.Application.dll
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Application\obj\Debug\net9.0\CompanyChatService.Application.pdb
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Application\obj\Debug\net9.0\ref\CompanyChatService.Application.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Application\obj\Debug\net9.0\CompanyChatService.Application.sourcelink.json

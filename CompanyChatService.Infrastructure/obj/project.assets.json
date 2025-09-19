@@ -235,7 +235,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "CompanyChatService.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "8.0.7"
+          "Microsoft.EntityFrameworkCore": "9.0.9"
         },
         "compile": {
           "bin/placeholder/CompanyChatService.Application.dll": {}
@@ -659,11 +659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emrep\\Documents\\projeler\\CompanyChatService\\CompanyChatService.Infrastructure\\CompanyChatService.Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\emrep\\Documents\\projeler\\CompanyChatService\\CompanyChatService.Infrastructure\\CompanyChatService.Infrastructure.csproj",
       "projectName": "CompanyChatService.Infrastructure",
-      "projectPath": "C:\\Users\\emrep\\Documents\\projeler\\CompanyChatService\\CompanyChatService.Infrastructure\\CompanyChatService.Infrastructure.csproj",
+      "projectPath": "c:\\Users\\emrep\\Documents\\projeler\\CompanyChatService\\CompanyChatService.Infrastructure\\CompanyChatService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\emrep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emrep\\Documents\\projeler\\CompanyChatService\\CompanyChatService.Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\emrep\\Documents\\projeler\\CompanyChatService\\CompanyChatService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
@@ -713,11 +713,11 @@
           }
         },
         "centralPackageVersions": {
-          "Microsoft.AspNetCore.OpenApi": "8.0.7",
-          "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.AspNetCore.OpenApi": "9.0.9",
+          "Microsoft.EntityFrameworkCore": "9.0.9",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.9",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
-          "Swashbuckle.AspNetCore": "6.6.2"
+          "Swashbuckle.AspNetCore": "9.0.4"
         },
         "imports": [
           "net461",

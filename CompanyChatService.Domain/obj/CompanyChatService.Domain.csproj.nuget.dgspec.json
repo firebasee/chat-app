@@ -45,11 +45,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "centralPackageVersions": {
-            "Microsoft.AspNetCore.OpenApi": "8.0.7",
-            "Microsoft.EntityFrameworkCore": "8.0.7",
+            "Microsoft.AspNetCore.OpenApi": "9.0.9",
+            "Microsoft.EntityFrameworkCore": "9.0.9",
             "Microsoft.EntityFrameworkCore.InMemory": "9.0.9",
             "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
-            "Swashbuckle.AspNetCore": "6.6.2"
+            "Swashbuckle.AspNetCore": "9.0.4"
           },
           "imports": [
             "net461",

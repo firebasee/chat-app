@@ -47,3 +47,4 @@ c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.WebAPI\o
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.WebAPI\obj\Debug\net9.0\CompanyChatService.WebAPI.pdb
 C:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.WebAPI\obj\Debug\net9.0\CompanyChatService.WebAPI.genruntimeconfig.cache
 C:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.WebAPI\obj\Debug\net9.0\ref\CompanyChatService.WebAPI.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.WebAPI\obj\Debug\net9.0\CompanyChatService.WebAPI.sourcelink.json

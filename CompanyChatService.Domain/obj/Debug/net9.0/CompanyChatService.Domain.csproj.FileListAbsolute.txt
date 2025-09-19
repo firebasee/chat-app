@@ -9,3 +9,4 @@ c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\o
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\refint\CompanyChatService.Domain.dll
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.pdb
 c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\ref\CompanyChatService.Domain.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.sourcelink.json
