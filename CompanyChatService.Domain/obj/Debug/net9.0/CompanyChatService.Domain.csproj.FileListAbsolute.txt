@@ -1,0 +1,11 @@
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\bin\Debug\net9.0\CompanyChatService.Domain.deps.json
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\bin\Debug\net9.0\CompanyChatService.Domain.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\bin\Debug\net9.0\CompanyChatService.Domain.pdb
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.AssemblyInfoInputs.cache
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.AssemblyInfo.cs
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.csproj.CoreCompileInputs.cache
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\refint\CompanyChatService.Domain.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\CompanyChatService.Domain.pdb
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Domain\obj\Debug\net9.0\ref\CompanyChatService.Domain.dll

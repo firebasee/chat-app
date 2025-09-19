@@ -1,0 +1,17 @@
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.AssemblyInfo.cs
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Infrastructure.deps.json
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Infrastructure.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Infrastructure.pdb
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Application.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Domain.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Application.pdb
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\bin\Debug\net9.0\CompanyChatService.Domain.pdb
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyC.AEC58366.Up2Date
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\refint\CompanyChatService.Infrastructure.dll
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\CompanyChatService.Infrastructure.pdb
+c:\Users\emrep\Documents\projeler\CompanyChatService\CompanyChatService.Infrastructure\obj\Debug\net9.0\ref\CompanyChatService.Infrastructure.dll
