@@ -21,6 +21,17 @@ builder.Services.AddSignalR();
 // WebAPI katmanında ISignalRService'i kaydet
 builder.Services.AddScoped<ISignalRService, SignalRService>();
 
+builder.Services.AddCors(config =>
+{
+    config.AddPolicy("CorsPolicy", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000") // React uygulamanızın çalıştığı adresi ekleyin
+              .AllowAnyHeader()
+              .AllowAnyMethod()
+              .AllowCredentials(); // SignalR için gerekli
+    });
+});
+
 
 
 // API Explorer ve Swagger için servisleri ekle
@@ -28,7 +39,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
+app.UseCors("CorsPolicy");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
